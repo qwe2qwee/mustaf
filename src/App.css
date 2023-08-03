@@ -1,0 +1,10 @@
+#root{
+  margin-left:110px ;
+}
+
+
+@media (max-width:1024px) {
+  #root {
+    margin-left: 0;
+  }
+}
