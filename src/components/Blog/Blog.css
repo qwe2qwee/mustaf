@@ -1,4 +1,4 @@
-.blog__container {
+/* .blog__container {
   grid-template-columns: repeat(3, 1fr);
   column-gap: 1.875rem;
 }
@@ -84,4 +84,4 @@
   .blog__container {
     grid-template-columns: 1fr;
   }
-}
+} */

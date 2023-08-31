@@ -9,7 +9,6 @@ import Resume from "./components/resume/Resume";
 import Portfolio from "./components/porfolio/Portfolio";
 import Pricing from "./components/pricing/Pricing";
 import Testimon from "./components/testimonials/Testimon";
-import Blog from "./components/Blog/Blog";
 import Contect from "./components/contect/Contect";
 
 
@@ -26,7 +25,6 @@ const App = () => {
           <Portfolio />
           <Pricing />
           <Testimon />
-          <Blog />
           <Contect />
         </main>
       </div>
