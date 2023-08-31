@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mustaf/static/css/main.b0388ef3.css",
-    "main.js": "/mustaf/static/js/main.621499e2.js",
+    "main.css": "/mustaf/static/css/main.205af633.css",
+    "main.js": "/mustaf/static/js/main.6738b2e9.js",
     "static/js/787.4c914267.chunk.js": "/mustaf/static/js/787.4c914267.chunk.js",
+    "static/media/Mustafa_Hassan.pdf": "/mustaf/static/media/Mustafa_Hassan.c1f129bb8ba81d158cb5.pdf",
     "static/media/work4.png": "/mustaf/static/media/work4.b7e4a3cf18465329065f.png",
     "static/media/work2.png": "/mustaf/static/media/work2.d9249c2d9e9fec8ed91a.png",
     "static/media/work5.png": "/mustaf/static/media/work5.6f9ced4c591392e9765a.png",
     "static/media/work3.png": "/mustaf/static/media/work3.04599f5095a83359bddb.png",
-    "static/media/قائمة اسعار musta12.pdf": "/mustaf/static/media/قائمة اسعار musta12.08267e741fb980f560d1.pdf",
     "static/media/‫work1.png": "/mustaf/static/media/‫work1.f16f4ad44c49a392eb6e.png",
     "static/media/super.jpg": "/mustaf/static/media/super.cbf4356d14df91ce2254.jpg",
     "static/media/ult.jpg": "/mustaf/static/media/ult.72da3ed3b702fdbd2985.jpg",
@@ -25,12 +25,12 @@
     "static/media/avatar-svgrepo-com.svg": "/mustaf/static/media/avatar-svgrepo-com.41c201175f705ece2c7f0ad98ff813b5.svg",
     "static/media/avatar-svgrepoo-com .svg": "/mustaf/static/media/avatar-svgrepoo-com .0f86570c951a36a4b4eb188b12c4b010.svg",
     "index.html": "/mustaf/index.html",
-    "main.b0388ef3.css.map": "/mustaf/static/css/main.b0388ef3.css.map",
-    "main.621499e2.js.map": "/mustaf/static/js/main.621499e2.js.map",
+    "main.205af633.css.map": "/mustaf/static/css/main.205af633.css.map",
+    "main.6738b2e9.js.map": "/mustaf/static/js/main.6738b2e9.js.map",
     "787.4c914267.chunk.js.map": "/mustaf/static/js/787.4c914267.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0388ef3.css",
-    "static/js/main.621499e2.js"
+    "static/css/main.205af633.css",
+    "static/js/main.6738b2e9.js"
   ]
 }
