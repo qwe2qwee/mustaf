@@ -151,9 +151,6 @@
     grid-template-columns: 350px;
   }
 
-  .about__data:hover {
-    left: 47%;
-  }
 
   .about__data {
     grid-template-columns: 1fr;
