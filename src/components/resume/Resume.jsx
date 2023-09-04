@@ -17,7 +17,6 @@ const Resume = () => {
                   icon={val.icon}
                   title={val.title}
                   year={val.year}
-                  desc={val.desc}
                 />
               );
             }

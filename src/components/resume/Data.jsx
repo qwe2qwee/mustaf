@@ -5,7 +5,6 @@ const Data = [
     icon: "icon-briefcase",
     year: "2019 - present",
     title: "Photography",
-    desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
   },
 
   {
@@ -14,7 +13,6 @@ const Data = [
     icon: "icon-briefcase",
     year: "2016 - 2023",
     title: "videographer",
-    desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
   },
 
   {
@@ -23,7 +21,6 @@ const Data = [
     icon: "icon-briefcase",
     year: "2018 - present",
     title: "Graphic Designer",
-    desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
   },
 
   {
@@ -32,7 +29,6 @@ const Data = [
     icon: "icon-briefcase",
     year: "2017 - 2023",
     title: "video editor",
-    desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
   },
   {
     id: 5,
@@ -40,7 +36,6 @@ const Data = [
     icon: "icon-briefcase",
     year: "2020 - 2023",
     title: "Motion graphic",
-    desc: "Lorem ipsum dolor sit amet quo ei simul congue exerci     ad nec admodum perfecto.",
   },
   {
     id: 6,

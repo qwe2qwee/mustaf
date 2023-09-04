@@ -7,7 +7,7 @@ const Sidebar = () => {
   const [toggle , setToggle] = useState(false);
   return (
     <>
-      <aside className={toggle ? "aside show-menu" : "aside"}>
+      <aside className={toggle ? "aside show-menu" : "aside close.menu"}>
         <a href='#Home' className='nav__logo'>
           <img src={Logo} className='lo' alt='logo' />
         </a>
@@ -55,8 +55,9 @@ const Sidebar = () => {
         <div></div>
         {/* <div className="copy">&copy; 2022 - 2023.</div> */}
       </aside>
-      <div className={toggle ? "nav__toggle nav__toggle-open" :"nav__toggle"} onClick={()=> setToggle(!toggle)}>
-        <i className="icon-menu"></i>
+      <div className={toggle ? "nav__toggle nav__toggle-open" :"nav__toggle nav__toggle-close"} onClick={()=> setToggle(!toggle)}>
+        <i className="icon-menu open" ></i>
+        <i className="fa-solid fa-xmark close"></i>
       </div>
     </>
   );

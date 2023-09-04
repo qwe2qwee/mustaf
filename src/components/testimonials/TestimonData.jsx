@@ -1,6 +1,9 @@
-import Image1 from "../../assets/avatar-boy-svgrepo-com.svg";
-import Image2 from "../../assets/avatar-svgrepo-com.svg";
-import Image3 from "../../assets/avatar-svgrepoo-com .svg";
+import Image1 from "../../assets/avatar-Art.svg";
+import Image2 from "../../assets/avatar-king.svg";
+import Image3 from "../../assets/avatar-build.svg";
+import Image4 from "../../assets/avatar-svgrepo-com.svg";
+
+
 
 const Data = [
   {
@@ -9,31 +12,31 @@ const Data = [
     title: "",
     subtitle: " Al Shaab Art Gallery in Jeddah",
     comment:
-      "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍",
+      "We enjoy working with you and learn so much. You  make the process fun and interesting. Good luck! 👍",
   },
   {
     id: 2,
-    image: Image3,
+    image: Image2,
     title: "",
     subtitle: " King Abdulaziz University",
     comment:
-      "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍",
+      "Thanks for your hard work. We wish you success! 👍",
   },
   {
     id: 3,
-    image: Image2,
+    image: Image3,
     title: "",
     subtitle: " Saudi Building Code",
     comment:
-      "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍",
+      "Man , you have wonderful crativity , and a high ability to adapt Thank you for your hard work! 👍",
   },
   {
     id: 4,
-    image: Image3,
+    image: Image4,
     title: "",
     subtitle: "AL - Baha chamber",
     comment:
-      "I enjoy working with the theme and learn so much. You       guys make the process fun and interesting. Good luck! 👍",
+      "Creative people are few, but of course you are one of them 🎗️",
   },
 ];
 
