@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/mustaf/static/css/main.7456685a.css",
-    "main.js": "/mustaf/static/js/main.24af179e.js",
+    "main.js": "/mustaf/static/js/main.8d4a98e2.js",
     "static/js/787.4c914267.chunk.js": "/mustaf/static/js/787.4c914267.chunk.js",
+    "static/media/logo.png": "/mustaf/static/media/logo.f560c3c652b091c9b3a1.png",
     "static/media/Mustafa_Hassan.pdf": "/mustaf/static/media/Mustafa_Hassan.c1f129bb8ba81d158cb5.pdf",
     "static/media/work4.png": "/mustaf/static/media/work4.b7e4a3cf18465329065f.png",
     "static/media/work2.png": "/mustaf/static/media/work2.d9249c2d9e9fec8ed91a.png",
@@ -27,11 +28,11 @@
     "static/media/avatar-build.svg": "/mustaf/static/media/avatar-build.bbfedf723beecc94cefaeaa2f06a0672.svg",
     "index.html": "/mustaf/index.html",
     "main.7456685a.css.map": "/mustaf/static/css/main.7456685a.css.map",
-    "main.24af179e.js.map": "/mustaf/static/js/main.24af179e.js.map",
+    "main.8d4a98e2.js.map": "/mustaf/static/js/main.8d4a98e2.js.map",
     "787.4c914267.chunk.js.map": "/mustaf/static/js/787.4c914267.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7456685a.css",
-    "static/js/main.24af179e.js"
+    "static/js/main.8d4a98e2.js"
   ]
 }
