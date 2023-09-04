@@ -3,6 +3,7 @@ import Work2 from "../../assets/Imgs/work2.png";
 import Work3 from "../../assets/Imgs/work3.png";
 import Work4 from "../../assets/Imgs/work4.png";
 import Work5 from "../../assets/Imgs/work5.png";
+import Work6 from "../../assets/logo.png"
 
 // import Work4 from "../../assets/Imgs/‫work4.png";
 // import Work5 from "../../assets/Imgs/‫work5.png";
@@ -14,10 +15,10 @@ const Menu = [
 
   {
     id: 3,
-    image: Work1,
-    title: "Delivery App Wireframe",
+    image: Work6,
+    title: "Logos",
     category: "Branding",
-    a: "https://www.behance.net/gallery/149073379/_",
+    a: "https://www.behance.net/gallery/175140807/_",
   },
   {
     id: 4,
