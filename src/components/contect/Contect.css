@@ -42,6 +42,26 @@
 }
 
 
+.contact__form-inputE {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  box-shadow: var(--shadow-error);
+  background-color: var(--container-color);
+  color: var(--text-color);
+  border: none;
+  outline: none;
+  border-radius: 1.875rem;
+  padding: 0.625rem 1.875rem;
+  z-index: 1;
+}
+
+.c {
+  background-color: blue;
+}
+
 .contact__are textarea {
   resize: none;
 }

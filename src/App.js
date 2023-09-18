@@ -11,7 +11,6 @@ import Pricing from "./components/pricing/Pricing";
 import Testimon from "./components/testimonials/Testimon";
 import Contect from "./components/contect/Contect";
 
-
 const App = () => {
   return (
     <>
